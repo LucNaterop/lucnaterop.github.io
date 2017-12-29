@@ -1,3 +1,8 @@
+
+html {
+    font-family: 'Slabo 27px', serif;
+}
+
 body{
     margin: 0;
 }
@@ -27,3 +32,4 @@ body{
     margin-top: 30px; /* Add a top margin to avoid content overlay */
     padding: 10px;
 }
+
